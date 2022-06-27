@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, KeyboardEvent } from 'react';
 import * as C from './styles';
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import * as C from './styles';
 import { Item } from '../../types/Item';
 import { useState } from 'react';

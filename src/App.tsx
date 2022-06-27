@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 import * as C from './App.styles';
 import { Item } from './types/Item';

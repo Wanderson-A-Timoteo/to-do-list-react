@@ -24,12 +24,14 @@
 
 Neste sistema podemos adicionar nossas tarefas do dia-a-dia para um controle do que precisamos fazer e do que já foi realizado.  
 <br>
+Durante o desenvolvimento deste projeto pude treinar a criação de types, props, componentes e hooks.
+<br>
 
 ### Tela do Sistema
 
 <p align="center">
   <img alt="Imagem da tela do sistema"
-       src=".github/lista-tarefas.png" 
+       src=".github/to-do-list.png" 
   />
 </p>
 <br>
@@ -37,7 +39,7 @@ Neste sistema podemos adicionar nossas tarefas do dia-a-dia para um controle do 
 ### Gif do Sistema Funcionando
 <p align="center">
   <img alt="Imagem da tela do sistema"
-        src=".github/lista-tarefas.gif" 
+        src=".github/to-do-list.gif" 
   />
 </p>
 <br>
@@ -97,7 +99,7 @@ http://localhost:3000
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/expense-tracker/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/to-do-list-react/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
