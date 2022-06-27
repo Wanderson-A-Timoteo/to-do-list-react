@@ -22,10 +22,12 @@
 
 ## 💻 Projeto
 
-Neste sistema podemos adicionar nossas tarefas do dia-a-dia para um controle do que precisamos fazer e do que já foi realizado.  
+Neste sistema podemos adicionar nossas tarefas do dia-a-dia para um controle do que precisamos fazer e marcar o que já foi realizado.  
 <br>
-Durante o desenvolvimento deste projeto pude treinar a criação de types, props, componentes e hooks.
+O objetivo no desenvolvimento deste projeto não é criar um layout responsivo, trata-se de uma aplicação simples, com o objetivo de praticar programação com ReactJS + Typescript na criação de types, props, componentes e hooks.
 <br>
+
+- [Visitar site do projeto](https://wanderson-a-timoteo-to-do-list-react-flax.vercel.app/)
 
 ### Tela do Sistema
 
